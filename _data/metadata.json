@@ -1,20 +1,5 @@
 {
-  "title": "Launchbyte",
-  "description": "No BS, honest sharing and tech support",
-  "url": "https://launchbyte.com",
-  "canonicalUrl": "https://launchbyte.com",
-  "ogImage": "/static/img/LWB1200x630.jpg",
-  "author": {
-      "name": "Bosslee Tech",
-      "email": "tobosslee@outlook.com",
-      "social": {
-        "github": "https://github.com/bosslee",
-        "twitter": {
-          "site": "@launchbyte",
-          "creator": "@leetucksing"
-        },
-        "instagram": "@bossleetech",
-        "facebook_page": "https://www.facebook.com/launchbyte"
-      }
-    }
+  "title": "This is Bosslee",
+  "description": "Documenting work on the internet",
+  "url": "https://this-is-bosslee.netlify.app"
 }

@@ -3,7 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 # Uncomment below to enable drafts
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
@@ -17,20 +17,9 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "description", name: "description", widget: "text" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"], required: false}
-      - { label: "Body", name: "body", widget: "markdown" }
-  # Our blog posts
-  - name: "podcast" # Used in routes, e.g., /admin/collections/blog
-    label: "Podcast" # Used in the UI
-    folder: "podcasts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "description", name: "description", widget: "text" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["podcast"], required: false}
+      - { label: "Author", name: "author", widget: "string", default: "Anonymous" }
+      - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
   # Our pages e.g. About
   - name: "pages"

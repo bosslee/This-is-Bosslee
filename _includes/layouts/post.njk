@@ -1,20 +1,13 @@
---- 
-layout: layouts/base.njk 
-section: post 
+---
+layout: layouts/base.njk
+section: post
 ---
 
 <article>
   <h1>{{ title }}</h1>
   <p>
-    {% if author %}
-      {% set author_name = author%}
-    {% else %}
-      {% set author_name = metadata.author.name%}
-    {% endif %}
     <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
-      by
-      {{ author_name }}
+      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
     </small>
   </p>
 
@@ -22,12 +15,12 @@ section: post
 
   {% if tags %}
     <p>
-      {% for tag in tags %}
-        {%- if tag != "post" -%}
-          {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-          <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-        {%- endif -%}
-      {% endfor %}
+    {% for tag in tags %}
+      {%- if tag != "post" -%}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
     </p>
   {% endif %}
 

@@ -26,7 +26,7 @@ const Post = createClass({
             </small>
           </p>
 
-          <p>${entry.getIn(["data", "description"], "")}</p>
+          <p>${entry.getIn(["data", "summary"], "")}</p>
 
           ${this.props.widgetFor("body")}
           <p>

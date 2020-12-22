@@ -1,7 +1,7 @@
 :root {
 	--primary: blue;
-	--secondary: #FF0080;
-	--background: #F8F8F8;
+	--secondary: white;
+	--background: #FFF0EB;
 }
 
 *, *:before, *:after {
@@ -39,6 +39,11 @@ a[href]:visited {
 
 a[href]:not(:hover) {
 	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
 }
 
 header,
@@ -188,10 +193,4 @@ button {
 	:root {
 		font-size: 1.1rem;
 	}
-}
-
-p.subtitle {
-	font-size: x-small; 
-	margin: auto;
-	display: flex;
 }

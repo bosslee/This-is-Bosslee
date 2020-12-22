@@ -1,24 +1,33 @@
 ---
 title: About us
-date: 2020-05-02T00:00:00.000Z
+metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Welcome to Launchbyte with Bosslee. 
+Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## The Past
+Add a few line breaks in here to test:-
+Capitalize  
+on  
+low  
+hanging  
+fruit  
 
-First, let me share with you some history of the site. This site used to be a place where we hosted our podcast - Launchbyte Podcast. It started in 2013 and I did it with my good friend Chris. You can still find the [podcasts](/podcast) here.
+## Our services
 
-When Chris and I first started, we wanted an outlet to talk about tech. During that time podcast wasn't a thing yet. We had to go into an actual recording studio to do a recording. It also gave me an experience into recording, making things and getting it out there.
+Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Now there are tons of apps and services out there to help you make podcasts. Heck, you can even record straight from your phone now. [Anchor](https://anchor.fm/) is a good example and they had just been acquired by Spotify.
+### Blue-sky thinking
 
-Throughout the years there are lots of on and off in making the shows. It was really hard to stay committed especially with our work plus podcasts was not picking up too. However we did had a lot of fun, especially those crazy [Youtube videos](https://www.youtube.com/user/LaunchByteTV) and you will never guess that we actually interviewed the [Carousell Founders on our show before](https://afterdark.launchbyte.com/post/41400323182/carousell-the-mobile-marketplace/amp).
+Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Since there are little updates, we have moved the hosting over to [Anchor](https://anchor.fm/launchbyte-podcast). This makes maintenance easier too. One day, we can share with our kids the funny things we do.
+#### Management frameworks
 
-## Now
-You can find out more from [here](https://www.launchbyte.com/) :)
+Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+##### Regulatory convergence
+
+Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
