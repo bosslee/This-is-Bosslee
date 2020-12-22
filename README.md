@@ -5,7 +5,7 @@
 I am taking this opportunity to do a digital reboot. Starting everything fresh and leaving the old baggage behind.
 
 - "This is Bosslee" has been the place I been logging down my life and ideas.
-- The first post "How to blog" was created on 2006-10-03. 14 years ago. I cannot imagine how times flies. 
+- The first post "How to blog" was created on 2006-10-03. 14 years ago. I cannot imagine how time flies. 
 - Throughout the years, I wrote a lot of nonsense. Looking book, they bring a lot of laughters 
 
 I always think that I know what I want and I am focus. But this is not true. I am like a headless chicken running around. 
