@@ -1,0 +1,35 @@
+<section>
+	{% for podcast in podcastslist | reverse %}
+		<article{% if podcast.url == url %} data-current="current item"{% endif %}>
+			<h3>
+				<a href="{{ podcast.url | url }}">
+					{% if podcast.data.title %}
+						{{ podcast.data.title }}
+					{% else %}
+						Untitled
+					{% endif %}
+				</a>
+			</h3>
+			{% if podcast.data.description %}
+				<p>
+					{{ podcast.data.description }}
+				</p>
+			{% endif %}
+			<p>
+				<time datetime="{{ podcast.date | machineDate }}">
+					<small>started on {{ podcast.date | readableDate }} by {{ metadata.author.name }}</small>
+				</time>
+			</p>
+			{% if podcast.data.tags %}
+				<p>
+					{% for tag in podcast.data.tags %}
+		  			{%- if tag != "podcast" -%}
+		  				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+		  			<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+		  			{%- endif -%}
+					{% endfor %}
+				</p>
+			{% endif %}
+		</article>
+	{% endfor %}
+</section>
