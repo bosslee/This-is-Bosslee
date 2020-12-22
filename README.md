@@ -1,3 +1,17 @@
-# Launchbyte.Com
-This is the remake of the [Launchbyte website](launchbyte.com).
-It is hassle to maintain a wordpress site so decided to use [11ty](https://www.11ty.io/) for generating the site. The [Eleventy Netlify boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) is by Dan Urbanowicz. It allows me to easily kickstart the site and move both articles and podcasts over. 
+
+# Digital Reboot
+2020 is a crazy year. A year where people are moving their lives online and reorienting our relationship with the outside world.
+
+I am taking this opportunity to do a digital reboot. Starting everything fresh and leaving the old baggage behind.
+
+- "This is Bosslee" has been the place I been logging down my life and ideas.
+- The first post "How to blog" was created on 2006-10-03. 14 years ago. I cannot imagine how times flies. 
+- Throughout the years, I wrote a lot of nonsense. Looking book, they bring a lot of laughters 
+
+I always think that I know what I want and I am focus. But this is not true. I am like a headless chicken running around. The truth hits me when I have a kid and I am turning 40. 
+
+Where has all the time gone to?
+
+Plus the projects I committed to years ago were dictating my present and keeping me from feeling like I could make room for what’s next. 
+
+Now it is time for me to start over. 
