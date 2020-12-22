@@ -194,3 +194,9 @@ button {
 		font-size: 1.1rem;
 	}
 }
+
+p.subtitle {
+	font-size: medium; 
+	margin: auto;
+	display: flex;
+}
