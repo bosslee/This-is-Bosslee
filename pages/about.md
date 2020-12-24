@@ -1,33 +1,27 @@
 ---
-title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
-date: 2017-01-01T00:00:00.000Z
+title: About Me
+metaDescription: My name is Tuck Sing. Friends like to call me Bosslee.
+date: 2020-12-22
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+## Starting Over
+2020 is a crazy year. A year where people are moving their lives online and reorienting our relationship with the outside world.
 
-## Our services
+I am taking this opportunity to do a digital reboot and starting over.
+Starting everything fresh and leaving the old baggage behind.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+1. "This is Bosslee" has been the place I been logging down my life and ideas.
+2. The first post "How to blog" was created on 2006-10-03. 14 years ago. I cannot imagine how time flies.
+3. Throughout the years, I wrote a lot of nonsense. Looking book, they bring a lot of laughters
 
-### Blue-sky thinking
+Now they are all archived.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I always think that I know what I want and I am focus. But this is not true. I am like a headless chicken running around. 2017, my startup failed. I went to join a corporate. The last 4 years, I understand myself better. I learn my strengths, weaknesses and importantly I learn to focus.
 
-#### Management frameworks
+The projects I committed to years ago were dictating my present and keeping me from feeling like I could make room for what’s next.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Now it is time for me to start over.
