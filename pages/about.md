@@ -27,5 +27,3 @@ The projects I committed to years ago were dictating my present and keeping me f
 
 Now it is time for me to start over.
 
-**Me Elsewhere**
-[@leetucksing](https://twitter.com/leetucksing)
