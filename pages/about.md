@@ -8,7 +8,8 @@ eleventyNavigation:
   order: 1
 ---
 
-## Starting Over
+Hi! My name is Tuck Sing and friends like to call me Bosslee.
+
 2020 is a crazy year. A year where people are moving their lives online and reorienting our relationship with the outside world.
 
 I am taking this opportunity to do a digital reboot and starting over.
@@ -25,3 +26,6 @@ I always think that I know what I want and I am focus. But this is not true. I a
 The projects I committed to years ago were dictating my present and keeping me from feeling like I could make room for what’s next.
 
 Now it is time for me to start over.
+
+**Me Elsewhere**
+[@leetucksing](https://twitter.com/leetucksing)
