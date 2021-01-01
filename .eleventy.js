@@ -79,6 +79,8 @@ module.exports = function(eleventyConfig) {
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
+  let markdownItFootnote = require("markdown-it-footnote");
+
   let options = {
     html: true,
     breaks: true,
@@ -90,6 +92,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownIt(options)
     .use(markdownItAnchor, opts)
+    .use(markdownItFootnote)
   );
 
   // Youtube Embedded
