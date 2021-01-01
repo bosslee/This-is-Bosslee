@@ -3,7 +3,7 @@ layout: layouts/contact.njk
 title: Get in touch
 metaDescription: Get in touch with Lee Tuck Sing
 section: contact
-date: 2020-22-12
+date: 2020-12-22
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
