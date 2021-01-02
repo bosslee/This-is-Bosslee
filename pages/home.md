@@ -3,9 +3,6 @@ layout: layouts/home.njk
 title: What I’m doing now
 date: 2020-12-22
 permalink: /
-eleventyNavigation:
-  key: Home
-  order: 0
 ---
 # Welcome
 Yes this site is plain on purpose.
@@ -21,7 +18,7 @@ My name is Tuck Sing and friends like to call bosslee. I gave myself an English 
 3. Building my YouTube Channel - [Bosslee Tech Support](https://www.youtube.com/channel/UCnWNu1fNP4_h1AjvPExgnrA?sub_confirmation=1)
 
 ## Me elsewhere
-[Bosslee Tech on YouTube](https://www.youtube.com/channel/UCnWNu1fNP4_h1AjvPExgnrA?sub_confirmation=1)
+[Bosslee Tech on YouTube](https://www.youtube.com/c/bossleetech?sub_confirmation=1)
 
 
 

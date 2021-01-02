@@ -5,7 +5,7 @@ date: 2020-12-22
 permalink: /about/index.html
 eleventyNavigation:
   key: About
-  order: 1
+  order: 0
 ---
 
 Hi! My name is Tuck Sing and friends like to call me Bosslee.
@@ -26,4 +26,6 @@ I always think that I know what I want and I am focus. But this is not true. I a
 The projects I committed to years ago were dictating my present and keeping me from feeling like I could make room for what’s next.
 
 Now it is time for me to start over.
+
+Find out [what am I doing now here](/)
 
