@@ -15,7 +15,7 @@ My name is Tuck Sing and friends like to call bosslee. I gave myself an English 
 
 1. Yoga every weekday morning
 2. Be Objective and do good work. So good that they can’t ignore you.
-3. Building my YouTube Channel - [Bosslee Tech Support](https://www.youtube.com/channel/UCnWNu1fNP4_h1AjvPExgnrA?sub_confirmation=1)
+3. Building my YouTube Channel - [Bosslee Tech Support](https://www.youtube.com/c/bossleetech?sub_confirmation=1)
 
 ## Me elsewhere
 [Bosslee Tech on YouTube](https://www.youtube.com/c/bossleetech?sub_confirmation=1)
