@@ -9,7 +9,11 @@ This week, I rebuild the site you are on right now: [bosslee.co](/).
 ## Leaving WordPress
 This site was hosted on WordPress and I was paying S$60 annually for the site. It was all fun and good with the ability to change themes and having a full pledge CMS. 
 
-However, as I get older. I start to appreciate simplicity. There was no need to change theme regularly. My writings were also mostly in text thus no use for a full pledge CMS. 
+However, as I get older. I start to appreciate simplicity. There is an article that I read and I love the ending paragraph. 
+
+> At its heart, web design should be about words. Words don't come after the design is done. Words are the beginning, the core, the focus. via [This is a web page.](https://justinjackson.ca/words.html)
+
+Since I write in plain text so there is no need for a complex CMS. Furthermore keeping the site plain allows you (the reader) to focus my the words. If my writings bring value, you will stay.
 
 ## Hello 11ty
 
