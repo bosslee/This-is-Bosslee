@@ -9,7 +9,7 @@ This week, I rebuild the site you are on right now: [bosslee.co](/).
 ## Leaving WordPress
 This site was hosted on WordPress and I was paying S$60 annually for the site. It was all fun and good with the ability to change themes and having a full pledge CMS. 
 
-However, as I get older. I start to appreciate simplicity. There is an article that I read and I love the ending paragraph. 
+As I get older. I start to appreciate simplicity. 
 
 > At its heart, web design should be about words. Words don't come after the design is done. Words are the beginning, the core, the focus. via [This is a web page.](https://justinjackson.ca/words.html)
 
@@ -25,7 +25,8 @@ I decided to turn my site in to a static website. This site is generated with th
 
 Initially I was thinking of moving all my writings over. This can be easily done by using this [WordPress Export](https://github.com/lonekorean/wordpress-export-to-markdown) library. 
 
-But I decided to start over. Taking the opportunity to do a [digital reboot](/about) and archived all my writings.
+But I decided to start over. 
+Taking the opportunity to do a [digital reboot](/about) and archived all my writings.
 
 This site is still very much a work in progress. I’m re-evaluating how I exist online. I don’t know where this is all going, but I thought I may as well have this conversation out loud. 
  
