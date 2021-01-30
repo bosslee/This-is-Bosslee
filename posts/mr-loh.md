@@ -1,6 +1,6 @@
 ---
 title: MR LOH! Monologue of my last in camp training
-date: 2020-12-30
+date: 2021-01-30
 summary: I finally completed my National Service liability
 ---
 
