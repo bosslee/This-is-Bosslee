@@ -30,4 +30,5 @@ The time has come for me to shout
 **MR LOH!!!**
 
 
-> “We sleep safely at night because rough men stand ready to visit violence  on those who would harm us.” .  – Winston Churchill (1874-1965
+> “We sleep safely at night because rough men stand ready to visit violence  on
+those who would harm us.” .  – Winston Churchill (1874-1965)
