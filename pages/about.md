@@ -19,7 +19,7 @@ Starting everything fresh and leaving the old baggage behind.
 2. The first post "How to blog" was created on 2006-10-03. 14 years ago. I cannot imagine how time flies.
 3. Throughout the years, I wrote a lot of nonsense. Looking book, they bring a lot of laughters
 
-Now they are all archived.
+Now they are all [archived](leetucksing.Wordpress.com).
 
 I always think that I know what I want and I am focus. But this is not true. I am like a headless chicken running around. 2017, my startup failed. I went to join a corporate. The last 4 years, I understand myself better. I learn my strengths, weaknesses and importantly I learn to focus.
 
