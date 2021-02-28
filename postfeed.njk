@@ -5,10 +5,10 @@
   "metadata": {
     "title": "This is Bosslee",
     "subtitle": "Documenting work on the internet",
-    "url": "https://bosslee-tech.netlify.com/",
-    "feedUrl": "https://bosslee-tech.netlify.com/feed.xml",
+    "url": "https://bosslee.co/",
+    "feedUrl": "https://bosslee.co/feed.xml",
     "author": {
-      "name": "Bossy Lee",
+      "name": "Tuck Sing aka Bosslee",
       "email": "hi@bosslee.co"
     }
   }
@@ -20,20 +20,18 @@
   <subtitle>{{ metadata.subtitle }}</subtitle>
   <link href="{{ metadata.feedUrl }}" rel="self"/>
   <link href="{{ metadata.url }}"/>
-  {% set postslist = collections.post %}
-  <updated>{{ postslist | rssLastUpdatedDate }}</updated>
+  <updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ metadata.url }}</id>
   <author>
     <name>{{ metadata.author.name }}</name>
     <email>{{ metadata.author.email }}</email>
   </author>
- 
-  {%- for post in postslist %}
+  {%- for post in collections.posts %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
     <title>{{ post.data.title }}</title>
     <link href="{{ absolutePostUrl }}"/>
-    <updated>{{ post.date | rssDate }}</updated>
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
     <id>{{ absolutePostUrl }}</id>
     <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
   </entry>
