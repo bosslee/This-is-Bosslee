@@ -1,8 +1,8 @@
 <title>
     {%if title %}
-        {{ metadata.title }}
-        |
         {{ title }}
+        |
+        {{ metadata.title }}
     {% else %}
         {{ metadata.title }}
     {% endif %}
@@ -17,11 +17,9 @@
 {% endif %}
 <link rel="canonical" href="{{ canonicalUrl }}">
 {# Social meta #}
-{% if section == "articles" %}
-    <meta property="og:type" content="blog">
-{% else %}
-    <meta property="og:type" content="website">
-{% endif %}
+
+<meta property="og:type" content="website">
+
 <meta property="og:url" content="{{ canonicalUrl }}">
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ description or metadata.description }}">
