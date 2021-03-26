@@ -1,5 +1,5 @@
 ---
-title: Notes to my younger self
+title: Notes to My Younger Self
 date: 2021-03-25
 summary: Writing this on my 39th 🥳 
 tags: 
