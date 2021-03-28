@@ -31,3 +31,4 @@ Decided to write to my younger self before I turn 40. Logging down the things I 
 9. Take good care of your 👀 
 10. You love kids, so have them early. 成家立业, not 立业成家
 11. Learn that doing a little each day is BETTER than doing everything in a short burst
+21. Work in a growth company first before starting your business. There are so much to learn and it will help reduce your mistakes.
