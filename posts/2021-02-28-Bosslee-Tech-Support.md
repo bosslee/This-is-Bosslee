@@ -55,10 +55,9 @@ The good thing is that  I'm still on the platform.
 
 YouTube is trying to catch up with Tiktok so this is a great opportunity to create short videos on YouTube.
 
-So I also start creating more short videos and throughout the process I feel
-fun. In fact, it is way more challenging than creating long form
-videos, especially if you need to teach concepts. Because you need to do
-everything in a minute
+So I also start creating more short videos and throughout the process I feel fun. 
+In fact, it is way more challenging than creating long form videos, especially if you need to teach concepts. 
+Because you need to do everything in a minute
 
 Feels good to write this out. 
 Thanks for reading.
