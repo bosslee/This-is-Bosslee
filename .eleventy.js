@@ -117,7 +117,7 @@ module.exports = function(eleventyConfig) {
     dataTemplateEngine: "njk",
     dir: {
       input: ".",
-      includes: "_includes",
+      includes: '_includes',
       data: "_data",
       output: "_site"
     }
