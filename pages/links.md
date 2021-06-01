@@ -10,7 +10,7 @@ eleventyNavigation:
 
 
 - [Binance Global](https://www.binance.com/en/register?ref=QAKCNSFH): Get 5% trading discounts
-- [Binance Saving compoung interest calculator](https://docs.google.com/spreadsheets/d/1tU4rdh-9S5UrMv8X1uMKa7gGJf4OVP8kHV1Bgxn0_uw/view?)
+- [Binance Saving compound interest calculator](https://docs.google.com/spreadsheets/d/1tU4rdh-9S5UrMv8X1uMKa7gGJf4OVP8kHV1Bgxn0_uw/view?)
 
 **giveaways**
 
