@@ -11,6 +11,7 @@ eleventyNavigation:
 
 - [Binance Global](https://www.binance.com/en/register?ref=QAKCNSFH): Get 5% trading discounts
 - [Binance Saving compound interest calculator](https://docs.google.com/spreadsheets/d/1tU4rdh-9S5UrMv8X1uMKa7gGJf4OVP8kHV1Bgxn0_uw/view?)
+- [Crypto Lending Platform comparison table](https://docs.google.com/spreadsheets/d/e/2PACX-1vQq2sZSFzJUiKF7_3HEx4ZbISGboc-VFllnrQCqhB1Pzp_E_SydolvK37eQJMYEDL__6ESk78g7x4QF/pubhtml)
 
 **giveaways**
 
