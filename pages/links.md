@@ -8,11 +8,17 @@ eleventyNavigation:
   order: 4
 ---
 
+**Resources**
 
 - [Binance Global](https://www.binance.com/en/register?ref=QAKCNSFH): Get 5% trading discounts
+- [Join Celsius Network now to be a Crypto Ah Long](https://celsiusnetwork.app.link/192860ce29): You can choose to use my referral code 192860ce29. When you deposit $400 or more, you get $50 in BTC.
+
+**Tools**
+
 - [Binance Saving compound interest calculator](https://docs.google.com/spreadsheets/d/1tU4rdh-9S5UrMv8X1uMKa7gGJf4OVP8kHV1Bgxn0_uw/view?)
-- [Join Celsius Network now to be a Crypto Ah Long. You can choose to use my referral code 192860ce29 too](https://celsiusnetwork.app.link/192860ce29): When you deposit $400 or more, you get $50 in BTC
 - [Crypto Lending Platform comparison table](https://docs.google.com/spreadsheets/d/e/2PACX-1vQq2sZSFzJUiKF7_3HEx4ZbISGboc-VFllnrQCqhB1Pzp_E_SydolvK37eQJMYEDL__6ESk78g7x4QF/pubhtml)
+
+  
 **giveaways**
 
 - [SPERM Portfolio Giveaway](https://docs.google.com/spreadsheets/d/1OtLDPnKzY21-EQ5Qbw_WyplcG1TmYKuieWK7phHBDzo/view): Result on 25 May 2021
