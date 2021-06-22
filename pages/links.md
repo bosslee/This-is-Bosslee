@@ -10,20 +10,22 @@ eleventyNavigation:
 
 **Resources**
 
-- [Binance Global](https://www.binance.com/en/register?ref=QAKCNSFH): Get 5% trading discounts
-- [Join Celsius Network now to be a Crypto Ah Long](https://celsiusnetwork.app.link/192860ce29): You can choose to use my referral code 192860ce29. When you deposit $400 or more, you get $50 in BTC.
+- [Binance Saving compound interest calculator](https://docs.google.com/spreadsheets/d/1tU4rdh-9S5UrMv8X1uMKa7gGJf4OVP8kHV1Bgxn0_uw/view?)
+- [Binance SG vs Binance.com comparison table](https://docs.google.com/spreadsheets/d/e/2PACX-1vQq2sZSFzJUiKF7_3HEx4ZbISGboc-VFllnrQCqhB1Pzp_E_SydolvK37eQJMYEDL__6ESk78g7x4QF/pubhtml)
+- [Blockfi vs Celcius Network vs Hodlnaut comparison table](https://docs.google.com/spreadsheets/d/e/2PACX-1vQq2sZSFzJUiKF7_3HEx4ZbISGboc-VFllnrQCqhB1Pzp_E_SydolvK37eQJMYEDL__6ESk78g7x4QF/pubhtml)
+
 
 **Tools**
 
-- [Binance Saving compound interest calculator](https://docs.google.com/spreadsheets/d/1tU4rdh-9S5UrMv8X1uMKa7gGJf4OVP8kHV1Bgxn0_uw/view?)
-- [Crypto Lending Platform comparison table](https://docs.google.com/spreadsheets/d/e/2PACX-1vQq2sZSFzJUiKF7_3HEx4ZbISGboc-VFllnrQCqhB1Pzp_E_SydolvK37eQJMYEDL__6ESk78g7x4QF/pubhtml)
+- [Get 10% trading discount with Binance](https://www.binance.com/en/register?ref=QAKCNSFH)
+- [Join Celsius Network and get $50 in BTC - 192860ce29](https://celsiusnetwork.app.link/192860ce29)
 
   
-**giveaways**
+**Giveaways**
 
 - [SPERM Portfolio Giveaway](https://docs.google.com/spreadsheets/d/1OtLDPnKzY21-EQ5Qbw_WyplcG1TmYKuieWK7phHBDzo/view): Result on 25 May 2021
 
 
-**me elsewhere**
+**Me elsewhere**
 - [Bosslee Lah on YouTube](https://www.youtube.com/channel/UCYZEakRmAdZ_NRpnW0RzPVQ?sub_confirmation=1): Detail video reviews on crypto investing. 
    
