@@ -16,4 +16,6 @@ I did not. Again emotion taking over. Thinking that it will go even higher. Luck
 The same thing happened for Dogecoins. It rose to USD0.70 but I did not let go. I had an ATH of USD10K when it hits USD0.70 but price came down. 
 
 I am not complaining but I am writing down a lesson to be learn. 
+We should all learn to take profit. The opposite is true, we should respect our stoploss.
+
 If I set a target, I might make less but I would have a lot more spare cash on hand to buy during the dip. Rather than waiting it out. So I am writing this piece to tell myself. Remember that I was once given the chance to take profit. 
