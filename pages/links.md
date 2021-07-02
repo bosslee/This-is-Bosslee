@@ -28,5 +28,5 @@ eleventyNavigation:
 
 
 **Me elsewhere**
-- [Bosslee Lah on YouTube](https://www.youtube.com/channel/UCYZEakRmAdZ_NRpnW0RzPVQ?sub_confirmation=1): Detail video reviews on crypto investing. 
+- [Bosslee Lah on YouTube](https://www.youtube.com/channel/UCYZEakRmAdZ_NRpnW0RzPVQ?app=desktop&sub_confirmation=1): Detail video reviews on crypto investing. 
    
