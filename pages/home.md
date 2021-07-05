@@ -15,7 +15,7 @@ My name is Tuck Sing and friends like to call bosslee. I like to build stuff on 
 
 1. Yoga every weekday morning
 2. Be Objective and do good work. So good that they can’t ignore you.
-3. Building my YouTube Channel - [Bosslee Tech Support](https://www.youtube.com/c/bossleetech?sub_confirmation=1)
+3. Building up my [Tiktok channel](https://www.tiktok.com/@bossleelah?)
 
 ## Me elsewhere
 [Bosslee Tech on YouTube](https://www.youtube.com/c/bossleetech?sub_confirmation=1)
