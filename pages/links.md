@@ -24,7 +24,7 @@ eleventyNavigation:
   
 **Giveaways**
 
-- [SPERM Portfolio Giveaway](https://docs.google.com/spreadsheets/d/1OtLDPnKzY21-EQ5Qbw_WyplcG1TmYKuieWK7phHBDzo/view): Result on 25 May 2021
+- [SPERM Portfolio Giveaway](https://docs.google.com/spreadsheets/d/e/2PACX-1vQuq76vu4sbe_ej4Yu_1OkN13u4Ld2DxSW0xbEG8s3_KlR9dkSE1cookr-8FtCkNLqmJ4qr6clMu8L9/pubhtml?gid=1826748795&single=true): Result on 25 May 2021
 
 
 **Me elsewhere**
