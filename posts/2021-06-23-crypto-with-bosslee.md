@@ -1,5 +1,5 @@
 ---
-title: Bosslee Crypto Support
+title: Crypto with Bosslee
 date: 2021-06-23
 summary: How I got lucky with Dogecoin and added 5000 followers to my Tiktok channel.
 ---
