@@ -8,6 +8,10 @@ eleventyNavigation:
   order: 4
 ---
 
+**Join Community**
+
+- [Join us to share ideas about Crypto Investing ](https://t.me/cryptowithbosslee)
+
 **Tools**
 
 - [Binance Saving compound interest calculator](https://docs.google.com/spreadsheets/d/1tU4rdh-9S5UrMv8X1uMKa7gGJf4OVP8kHV1Bgxn0_uw/view?)
